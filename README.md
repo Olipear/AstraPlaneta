@@ -17,7 +17,7 @@ A screenshot of the colony ship model with it's little shuttle.
 ![map table](/screenshots/map-table.png)
 The map table
 
-![information screen](information-screen.png)
+![information screen](/screenshots/information-screen.png)
 The information screen trying to show far too much!
 
 [This is a video breakdown of the procedural planet textures used in the game.](https://youtu.be/GKbdD22UnuI)
